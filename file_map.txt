@@ -1,0 +1,9 @@
+.gitattributes
+.roomodes
+README.md
+detailed-mode-creation-guide.md
+meet-the-team.md
+templates/
+templates/.roomodes
+templates/custom-instructions-for-all-modes.md
+templates/enhance-prompt-template.md
